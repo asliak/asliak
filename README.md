@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asliak
-- 👀 I’m interested in softwares and artificial intelligence. (hopefully i can get better at those in following years of my journey)
+- 👋 Hi, I’m Aslı Nur Aksakal.
+- 👀 I’m a third grade student at IZTECH Electronics and Communication Department, interested in Machine Learning, AI and Data Science. (hopefully i can get better at those in following years of my journey)
 - 🌱 I’m currently learning C and Python.
 
 <!---
